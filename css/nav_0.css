@@ -90,7 +90,7 @@ a, a:hover, a:focus {
 }
 
 #sidebar ul li a {/*外面的字*/
-	color:#FFFFFF;
+	color:#626262;
     padding: 10px 8px ;
     font-size: 14px;
     display: block;
@@ -114,7 +114,7 @@ ul ul a {/*裡面的字*/
 
 #sidebar ul li.active>a,
 a[aria-expanded="true"] {
-    color:#FFFFFF;/*外面的字*/
+    color:#626262;/*外面的字*/
 }
 
 a[data-toggle="collapse"] {
