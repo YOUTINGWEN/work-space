@@ -151,7 +151,7 @@ a[data-toggle="collapse"] {
 #sidebarCollapse {
     width: 30px;
     height: 30px;
-    background:#000000;
+    background:#FFFFFF;
     cursor: pointer;
 }
 
@@ -160,7 +160,7 @@ a[data-toggle="collapse"] {
     height: 2px;
     margin: 0 auto;
     display: block;
-    background:#FFFFFF;
+    background:#626262;
     transition: all 0.8s cubic-bezier(0.810, -0.330, 0.345, 1.375);
     transition-delay: 0.2s;
 }
