@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url("rwd.css");
+
+
+*{
+	padding:0;
+	margin:0;
+}
+
+
+
+body {
+	background: #000000;
+}
+
+
+.work{
+	position: fixed;
+	top: 160px;
+	left: 10px;
+	z-index: 2000;
+}
+
+section{
+	width: 100%;
+	padding: 0px 0px ;
+}
+
+.v_1{
+	position: fixed;
+	top: 60px;
+	z-index: -2000;
+	
+}
+
+
+
+/*===============rwd details===============*/
+
+/* For tablets */
+
+@media only screen and (min-width: 768px) {
+	
+body {
+	background: #000000;
+}
+	
+	
+	
+	section{
+	float: right;
+	width: 90%;
+	padding: 50px 0px;
+	
+}
+	
+	
+}
