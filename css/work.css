@@ -48,14 +48,14 @@ section{
 
 /*w1*/
 .work_c{
-	background: url("../images2/Cultivating_p0.jpg") no-repeat;
+	background: url("../images/Cultivating_p0.jpg") no-repeat;
 	width: 300px;
 	height: 170px;
 	background-size: 200%;
 }
 
 .work_c:hover{
-	background: url("../images2/Cultivating_p0.jpg")no-repeat;
+	background: url("../images/Cultivating_p0.jpg")no-repeat;
 	background-size: 200%;
 	background-position: 100% 0px;
 }
@@ -63,14 +63,14 @@ section{
 
 /*w2*/
 .work_w{
-	background: url("../images2/walking_p0.png") no-repeat;
+	background: url("../images/walking_p0.png") no-repeat;
 	width: 300px;
 	height: 170px;
 	background-size: 200%;
 }
 
 .work_w:hover{
-	background: url("../images2/walking_p0.pngg")  no-repeat;
+	background: url("../images/walking_p0.pngg")  no-repeat;
 	background-size: 200%;
 	background-position: 100% 0px;
 }
