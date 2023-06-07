@@ -30,7 +30,7 @@ section{
 
 .v_1{
 	position: fixed;
-	top: 40px;
+	top: 0px;
 	z-index: -2000;
 	
 }
