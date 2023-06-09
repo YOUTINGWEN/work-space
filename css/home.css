@@ -42,7 +42,7 @@ section{
 
 /* For tablets */
 
-@media only screen and (min-width: 1023px) {
+@media only screen and (max-width: 1023px) {
 	
 body {
 	background:url("../images/frontpage2 .mp4");
