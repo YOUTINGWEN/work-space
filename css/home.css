@@ -36,6 +36,14 @@ section{
 	
 }
 
+.v_2{
+	position: fixed;
+	top: 200px;
+	right: 0px;
+	z-index: -2000;
+	
+}
+
 
 
 /*===============rwd details===============*/
