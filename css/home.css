@@ -42,15 +42,14 @@ section{
 
 /* For tablets */
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1023px) {
 	
 body {
-	background: #;
+	background:url("../images/frontpage2 .mp4");
 }
 	
 	
-	
-	section{
+section{
 	float: right;
 	width: 90%;
 	padding: 50px 0px;
