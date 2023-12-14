@@ -119,46 +119,7 @@
             </nav>
             
             <!--section-->
-<section>
-	
-		<div class="work-mov">
-			<iframe src="https://player.vimeo.com/video/802376143?h=507d3bdd02&title=0&byline=0&portrait=0" style="height: 500px; width: 100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-		</div>
-		<script src="https://player.vimeo.com/api/player.js"></script>
-	
-	
-	<article>
-	<div class="introtext">
-			<h1>蓋幾面牆 Building some Walls</h1>
-			<p>錄像投影（單頻道、雙聲道）｜實驗聲響 Video Projection | Experimental Sound</p>
-			<p>2022</p>
-		
-			<p>因為什麼，讓我可以待在這裡。
-			<br>物被光瞄準，蓋起眼睛外的辨認，安心了就待著。
-			<br>我總想著，邀請那些西方人物、小動物到牆內待著，吞進皮膚內。
-			<br>掠過耳邊的建構聲，竄逃似的。讓我發現我蓋了圍不起的牆。
-			</p>
-		
-			<p>Why can I stay here. The object is aimed by the light, covering my identification. Oh, here I can stay. I want to invite those who I can’t catch to come and stay in the wall for a while. Trying to make my wall take everything. They skim over my ears only made me realize that I had built unenclosed walls.
-			</p>
-	</div>
-	</article>
-	
-	
-	
-	
-	<div class="work-pic">
-		<img src="images/building_p1.gif" width="100%" alt="building_p1"/>
-		<p>&nbsp;</p>
-		<img src="images/building_p2.png" width="100%" alt="building_p2"/>
-		<p>&nbsp;</p>
-		<img src="images/building_p3.png" width="100%" alt="building_p3"/>
-		<p>&nbsp;</p>
-		<img src="images/building_p4.png" width="100%" alt="building_p4"/>
-	</div>
-	
-	
-</section>
+
 			
 			
 			
