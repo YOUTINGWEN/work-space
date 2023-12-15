@@ -88,12 +88,11 @@ a, a:hover, a:focus {
 
 #sidebar ul p {
 	
-	background: #ffffff;
-	
     padding: 12px;
 }
 
 #sidebar ul li a {/*外面的字*/
+		background: #ffffff;
 	color:#626262;
     padding: 10px 8px ;
     font-size: 14px;
@@ -101,6 +100,7 @@ a, a:hover, a:focus {
 }
 
 ul ul a {/*裡面的字*/
+		background: #ffffff;
     font-size: 12px !important;
     padding-left: 10px !important;
 }
