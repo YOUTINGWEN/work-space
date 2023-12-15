@@ -29,7 +29,6 @@ a, a:hover, a:focus {
 }
 
 .navbar {
-    background: #ffffff;
     padding: 28px 0px;
     border: none;
     border-radius: 0;
@@ -46,6 +45,7 @@ a, a:hover, a:focus {
 
 .nav_ch{
 	font-weight: 900; 
+	    background: #ffffff;
 	}
 
 .nav_w{
