@@ -16,7 +16,6 @@
 
 
 p {
-    background: #ffffff;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
@@ -30,6 +29,7 @@ a, a:hover, a:focus {
 }
 
 .navbar {
+    background: #ffffff;
     padding: 28px 0px;
     border: none;
     border-radius: 0;
