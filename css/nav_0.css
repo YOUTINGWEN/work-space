@@ -20,6 +20,7 @@ p {
     font-weight: 300;
     line-height: 1.7em;
     color: #999;
+background: #ffffff;
 }
 
 a, a:hover, a:focus {
@@ -45,7 +46,6 @@ a, a:hover, a:focus {
 
 .nav_ch{
 	font-weight: 900; 
-	    background: #ffffff;
 	}
 
 .nav_w{
