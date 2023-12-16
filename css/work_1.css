@@ -82,6 +82,10 @@ article{
 	width:100%;
 }
 
+articlenext{
+	display:inline-block;
+	float:right;
+}
 
 
 /*===============rwd details===============*/
