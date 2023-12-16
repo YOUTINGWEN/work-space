@@ -84,7 +84,7 @@ article{
 
 articlenext{
 	display:inline-block;
-	float:right;
+	position:right;
 }
 
 
