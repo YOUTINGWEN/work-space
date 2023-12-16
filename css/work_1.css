@@ -82,11 +82,20 @@ article{
 	width:100%;
 }
 
-articlenext{
+
+.next{
 	display:inline-block;
 	position:right;
+	
 }
 
+.next p{
+	font-weight:lighter;
+	font-size:12px;
+	line-height:1.8em;
+	text-align: justify; /*左右對齊*/
+	color:#868686;
+}
 
 /*===============rwd details===============*/
 
