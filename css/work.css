@@ -60,21 +60,8 @@ section{
 	background-position: 100% 0px;
 }
 
-/*w1*/
-.work_c{
-	background: url("../images/Building_p0.jpg") no-repeat;
-	width: 300px;
-	height: 170px;
-	background-size: 200%;
-}
 
-.work_c:hover{
-	background: url("../images/Building_p0.jpg")no-repeat;
-	background-size: 200%;
-	background-position: 100% 0px;
-}
-
-/*w1*/
+/*w2*/
 .work_c{
 	background: url("../images/Cultivating_p0.jpg") no-repeat;
 	width: 300px;
@@ -89,7 +76,7 @@ section{
 }
 
 
-/*w2*/
+/*w3*/
 .work_w{
 	background: url("../images/walking_p0.png") no-repeat;
 	width: 300px;
@@ -104,7 +91,7 @@ section{
 }
 
 
-/*w3*/
+/*w4*/
 .work_b{
 	background: url("../images/building_p0.png")no-repeat;
 	width: 300px;
@@ -119,7 +106,7 @@ section{
 }
 
 
-/*w4*/
+/*w5*/
 .work_m{
 	background: url("../images/mur_p0.png") no-repeat;
 	width: 300px;
@@ -129,6 +116,21 @@ section{
 
 .work_m:hover{
 	background: url("../images/mur_p0.png")no-repeat;
+	background-size: 200%;
+	background-position: 100% 0px;
+}
+
+
+/*w6*/
+.work_m{
+	background: url("../images/Scattered_p0.png") no-repeat;
+	width: 300px;
+	height: 170px;
+	background-size: 200%;
+}
+
+.work_m:hover{
+	background: url("../images/Scattered_p0.png")no-repeat;
 	background-size: 200%;
 	background-position: 100% 0px;
 }
