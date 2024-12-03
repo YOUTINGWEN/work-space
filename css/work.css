@@ -136,6 +136,17 @@ section{
 }
 
 
+p.copyright {
+            font-size: 13px;
+            color: #666;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            padding: 10px 0;
+        }
+
+
 
 
 /*--------------------RWD-----------------------*/
