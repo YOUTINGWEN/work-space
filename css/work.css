@@ -137,14 +137,14 @@ section{
 
 /*w7*/
 .work_sp{
-	background: url("../images/Scattered_p0.png") no-repeat;
+	background: url("../images/Spiral_p0.jpg") no-repeat;
 	width: 300px;
 	height: 170px;
 	background-size: 200%;
 }
 
 .work_sp:hover{
-	background: url("../images/Scattered_p0.png")no-repeat;
+	background: url("../images/Spiral_p0.jpg")no-repeat;
 	background-size: 200%;
 	background-position: 100% 0px;
 }
