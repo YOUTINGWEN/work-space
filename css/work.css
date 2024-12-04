@@ -135,6 +135,20 @@ section{
 	background-position: 100% 0px;
 }
 
+/*w7*/
+.work_spiral{
+	background: url("../images/Spiral_p0.jpg") no-repeat;
+	width: 300px;
+	height: 170px;
+	background-size: 200%;
+}
+
+.work_spiral:hover{
+	background: url("../images/Spiral_p0.jpg")no-repeat;
+	background-size: 200%;
+	background-position: 100% 0px;
+}
+
 
 
 
